@@ -69,10 +69,6 @@ This needs to be called first, it allows the microservice to build the WSS conne
 {
     "jsonrpc": "2.0",
     "method": "LampServerHandler.QueryChannelLevels",
-    "params": [
-        {{channel_num_int}},
-        {{dim_level_int}}
-    ],
     "id": "uuid"
 }
 ```
