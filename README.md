@@ -72,7 +72,12 @@ This needs to be called first, it allows the microservice to build the WSS conne
     "id": "uuid"
 }
 ```
-It returns an Integer array where arr[i] = i-1. channel's dimming level 
+It returns an Integer array where arr[i] = i-1. channel's dimming level
+
+## Contribution
+Feel free to add issues if you notice something not working properly, also feel free to fork the project, if you'd like.
+
 ## Disclaimer
 
 **The making of this project was purely for educational reasons.**
+
